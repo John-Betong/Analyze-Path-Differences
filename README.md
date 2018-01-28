@@ -5,13 +5,13 @@ Have you ever wondered what files have been newly created, last modified or even
 <br>
 **Look no further - this is the App' for that :)**
 
-File Integrity Class
-A simple Class that interrogates all files in a site path.
-File contents are hashed and a "snapshot" saved to a dynamically created database table.
-Unfortunately folder names must be "fixed" to in order to conform :)
-Any time afterwards the "snapshot" can be compared against the current files.
-All discrepancies are shown which facilitates finding problematic files.
-A new "snapshot" can be created once all discrepances have been resolved.
+### File Integrity Class
+> A simple Class that interrogates all files in a site path.
+> File contents are hashed and a "snapshot" saved to a dynamically created database table.
+> *Unfortunately folder names must be "fixed" to in order to conform :)*
+> Any time afterwards the "snapshot" can be compared against the current files.
+> All discrepancies are shown which facilitates finding problematic files.
+> A new "snapshot" can be created once all discrepances have been resolved.
 
 ### Results of Interrogation:
     Amended files
