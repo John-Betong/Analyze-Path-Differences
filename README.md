@@ -1,6 +1,6 @@
-# File-Integrity-Check
+# File Integrity Check
 
-#### Introduction:
+### Introduction:
 Have you ever wondered what files have been newly created, last modified or even deleted?
 Look no further - this is the App' for that :)
 
@@ -12,12 +12,12 @@ Any time afterwards the "snapshot" can be compared against the current files.
 All discrepancies are shown which facilitates finding problematic files.
 A new "snapshot" can be created once all discrepances have been resolved.
 
-#### Results of Interrogation:
+### Results of Interrogation:
     Amended files
     Deleted files
     New files
 
-#### Installation:
+### Installation:
     1. Download and extract any of the following zip files into a new LOCALHOST "folder-name":
     2. source.zip source.tar.xz source.7z
     3. Use PhpMyAdmin to create a "DB_HOST" Database named "DB_NAME"
@@ -33,7 +33,7 @@ A new "snapshot" can be created once all discrepances have been resolved.
 #### [Online Demo](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/)
 
    
-    ![Screenshot](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/imgs/screenshot-2018-01-28-31.3kb.png "An optional title")
+    ![Screenshot](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/imgs/screenshot-2018-01-28-31.3kb.png "ScreenDump")
 
 
  
