@@ -32,7 +32,7 @@ A new "snapshot" can be created once all discrepances have been resolved.
 
 #### [Online Demo](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/)
 
-![Screen Shot (https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/imgs/screenshot-2018-01-28-31.3kb.png  "Screen Shot")
+![Screen Shot](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/imgs/screenshot-2018-01-28-31.3kb.png  "Screen Shot")
 
 [Screenshot](https://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/imgs/screenshot-2018-01-28-31.3kb.png "ScreenDump")
 
