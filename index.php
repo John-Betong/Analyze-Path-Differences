@@ -7,14 +7,14 @@
 # NOT REQUIED ON THIS PAGE
   include '_config.php'; 
 
-  $TITLE = 'John_Betong\'s Website File Integrity Check';
+  $TITLE = 'John_Betong: Analyze Path Differences';
   $DESC  = 'Simple PHP Class to monitor online file changes.'
           . 'Hacked servers can now be easily checked to prevent problems.';
-  $DEMO  = 'http://johns-jokes.com/downloads/sp-a/detect-file-changes/ver-002/';
+  $DEMO  = 'http://johns-jokes.com/downloads/sp-a/analyze-path-differences/';
   $DEMO  = 'interrogator.php';
   $SITE  = NULL;
   if(LOCALHOST):
-    $url   = 'https://johns-jokes.com/downloads/sp-a/detect-file-changes/';
+    $url   = 'https://johns-jokes.com/downloads/sp-a/analyze-path-differences/';
     $SITE  = '<h6 class="flr ooo"><a href="' .$url .'">ONLINE</a></h6>';
   endif; 
   $IMG_1    = 'imgs/screenshot-2018-01-28-31.3kb.png';
@@ -113,7 +113,7 @@ echo $hdr;
           <br>
         </div>  
 
-        <h2 class="ooo"> File Integrity Class </h2>
+        <h2 class="ooo"> Analyze Path Differences Class </h2>
         <div class="p42">
           A simple Class that interrogates all files in a site path. 
           <br>
