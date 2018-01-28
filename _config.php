@@ -14,9 +14,9 @@
       include $fileAboveRoot;
   else: // LOCALHOST: 
       define('DB_HOST', 'localhost'); 
-      define('DB_USER', 'fi033614625035');
-      define('DB_PWRD', 'Na033614625035!@#');
-      define('DB_NAME', 'file_integrity');
+      define('DB_USER', 'QfiR03E36R14G62R50p35');
+      define('DB_PWRD', 'zNa0t33y61j46k25k035!@#');
+      define('DB_NAME', 'analyze_paths');
   endif;  
 
 # SET DEFAULT PATHS - CAN ADD MANY MORE 
