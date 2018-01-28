@@ -2,7 +2,8 @@
 
 ### Introduction:
 Have you ever wondered what files have been newly created, last modified or even deleted?
-Look no further - this is the App' for that :)
+<br>
+**Look no further - this is the App' for that :)**
 
 File Integrity Class
 A simple Class that interrogates all files in a site path.
